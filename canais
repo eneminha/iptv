@@ -1,0 +1,130 @@
+#EXTINF:-1,RTP 1 (Portugal)
+rtmp://ec21.rtp.pt/livetv playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 timeout=10
+#EXTINF:-1,Sport TV 1
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+#EXTINF:-1,Sport TV 2
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+#EXTINF:-1,Sport TV 3
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,Sport TV 4
+rtmpe://5.153.233.106:443/share/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to
+#EXTINF:-1,i24 News (French)  
+#EXTINF:-1 tvg-id=”Discovery World HD” tvg-name=”Discovery World HD” tvg-logo=”2431900.png”, Discovery World HD
+http://202.75.23.34/live/ch30/03.m3u8
+
+#EXTINF:-1 tvg-id=”Nat Geo HD” tvg-name=”National Geographic” tvg-logo=”2204956.png”, National Geographic HD
+http://202.75.23.35/live/ch38/03.m3u8
+#EXTINF:-1, SPORT TIME TV 3HQ
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1,EUROSPORT
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1,EUROSPORT
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id=”39″ tvg-name=”Animal Planet” tvg-logo=”8547509.png”, Animal Planet sd
+http://202.75.23.34:1400/live/ch31/03.m3u8
+
+#EXTINF:-1 tvg-id=”Discovery” tvg-name=”Discovery” tvg-logo=”8875564.png”,Discovery Channel
+http://202.75.23.34/live/ch29/03.m3u8
+
+#EXTINF:-1 tvg-id=”Discovery World HD” tvg-name=”Discovery World HD” tvg-logo=”2431900.png”, Discovery World HD
+http://202.75.23.34/live/ch30/03.m3u8
+
+#EXTINF:-1 tvg-id=”Nat Geo HD” tvg-name=”National Geographic” tvg-logo=”2204956.png”, National Geographic HD
+http://202.75.23.35/live/ch38/03.m3u8
+
+#EXTINF:-1 tvg-id=”National Geographic People” tvg-logo=”8110355.png”, National Geographic People
+rtmpe://31.220.0.135/live playpath=natgeousa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-id=”Nat Geo Wild HD” tvg-name=”Nat Geo Wild HD” tvg-logo=”5144421.png”, Nat Geo Wild HD
+http://202.75.23.35/live/ch39/03.m3u8
+
+#EXTINF:-1,Dance TV HD HU
+http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
+
+#EXTINF:-1, Sky Sport 1
+rtmp://46.246.29.130:1935/stream playpath=WWv4pD0kYn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php
+  
+#EXTINF:-1, Sky Sports 2
+rtmp://46.246.29.130:1935/stream playpath=C9GiZ6Is2i.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php
+
+
+#EXTINF:-1, Sky Sports 3
+rtmp://46.246.29.130:1935/stream playpath=0szq1PrXpA.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php
+
+
+#EXTINF:-1, Sky Sport 4
+rtmp://46.246.29.130:1935/stream playpath=1vvIomapXJ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php
+
+
+#EXTINF:-1, Sky Sport 5
+rtmp://46.246.29.130:1935/stream playpath=00npFnXMLx.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php
+
+#EXTINF:-1, BT Sport 1
+rtmp://46.246.29.130:1935/stream playpath=0B0AridcOE.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php
+
+
+
+#EXTINF:-1, Bein 1 Eng
+http://180.250.29.21/jhos/bein1/1420248174/playlist.m3u8
+
+#EXTINF:-1, Bein 1 HD AR
+rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports1
+
+#EXTINF:-1, Bein 2 eng
+http://180.250.29.21/jhos/bein2/1420248352/playlist.m3u8
+
+#EXTINF:-1, Bein Sport Eng
+http://180.250.29.21/jhos/bein3/1420248720/playlist.m3u8
+
+
+#EXTINF:-1, Bein 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?&4h6j77bHEUVFKkkSgT
+
+#EXTINF:-1, Bein 3
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?&4h6j77bHEUVFKkkSgT
+
+#EXTINF:-1, Being 4
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?&4h6j77bHEUVFKkkSgT
+
+#EXTINF:-1, Bein 5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?&4h6j77bHEUVFKkkSgT
+
+#EXTINF:-1, Bein 6
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?&4h6j77bHEUVFKkkSgT
+
+#EXTINF:-1, Sky sports news
+http://198.27.94.105/hls/skysportsnews_1.m3u8
+#EXTINF:-1, Bt sports 1
+http://198.27.94.105/hls/bt1_1.m3u8
+#EXTINF:-1, Bt sports 2
+http://198.27.94.105/hls/bt2_1.m3u8
+#EXTINF:-1, Sky sports 1
+http://198.27.94.105/hls/skysports1_1.m3u8
+#EXTINF:-1, Sky sports 2
+http://198.27.94.105/hls/skysports2_1.m3u8
+#EXTINF:-1, Sky sports 3
+http://198.27.94.105/hls/skysports3_1.m3u8
+#EXTINF:-1, Sky sports 4
+http://198.27.94.105/hls/skysports4_1.m3u8
+#EXTINF:-1, Sky sports 5
+http://198.27.94.105/hls/skysports5_1.m3u8
+#EXTINF:-1, Sky sports f1 [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, British eurosports 1
+http://37.48.118.32/live/eurosport110.stream/playlist.m3u8
+#EXTINF:-1, British eurosport 2
+http://37.48.118.32/live/eurosport22.stream/playlist.m3u8
+
+#EXTINF:-1, British eurosports 1
+http://37.48.118.32/live/eurosport110.stream/playlist.m3u8
+#EXTINF:-1, British eurosport 2
+http://37.48.118.32/live/eurosport22.stream/playlist.m3u8
